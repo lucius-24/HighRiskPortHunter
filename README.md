@@ -1,7 +1,7 @@
 # 🎯 HighRiskPortHunter
 
 <p align="center">
-  <img src="radar.ico" alt="HighRiskPortHunter Logo" width="128"/>
+  <img src="radar.png" alt="HighRiskPortHunter Logo" width="128"/>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-19C2FF.svg?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Engine-Asyncio-FF5C7A.svg" alt="Asyncio">
-  <img src="https://img.shields.io/badge/Build-V24-success.svg" alt="Build">
+  <img src="https://img.shields.io/badge/Build-V1.0-success.svg" alt="Build">
   <img src="https://img.shields.io/badge/License-MIT-gray.svg" alt="License">
 </p>
 
@@ -21,7 +21,7 @@
 ## 📖 简介 | Introduction
 
 **[中文]**
-**HighRiskPortHunter** 是一款专为红蓝对抗、企业内网测绘与资产漏洞治理打造的高性能图形化安全审计引擎。由安全从业者 **Lucius** 倾力开发，工具底层采用纯异步（`Asyncio`）发包架构，不仅拥有摧枯拉朽的并发探测能力，更首创了**“智能混合渲染机制”**——彻底解决了传统安全工具在面对海量扫描数据时引发的 UI 卡死痛点。配合全手工打磨的沉浸式暗黑控制台，为您带来丝滑、专业的极客安全体验。
+**HighRiskPortHunter** 是一款专为红蓝对抗、企业内网测绘与资产漏洞治理打造的高性能图形化安全审计引擎。由安全从业者 **Lucius** 倾力开发，工具底层采用纯异步（`Asyncio`）发包架构，不仅拥有摧枯拉朽的并发探测能力，更首创了“智能混合渲染机制”——彻底解决了传统安全工具在面对海量扫描数据时引发的 UI 卡死痛点。配合全手工打磨的沉浸式暗黑控制台，为您带来丝滑、专业的极客安全体验。
 
 **[English]**
 **HighRiskPortHunter** is a high-performance, graphical security auditing engine built for Red/Blue teaming, enterprise intranet mapping, and asset vulnerability management. Developed by security practitioner **Lucius**, it utilizes a pure `asyncio` packet-sending architecture, delivering devastating concurrent scanning power. Its pioneered **"Smart Hybrid Rendering Mechanism"** completely eliminates the UI freezing issues typical of traditional security tools when handling massive scan data. Combined with a handcrafted immersive dark console, it provides a seamless, professional geek experience.
@@ -63,8 +63,7 @@ The tool is a portable standalone executable. It runs completely offline with no
 
 ## 📸 猎测视角 | UI Preview
 
-*(Place your screenshot here / 将运行截图命名为 `screenshot.png` 放置在项目根目录)*
-![HighRiskPortHunter Console](screenshot.png)
+![HighRiskPortHunter Console](1.png)
 
 ---
 
